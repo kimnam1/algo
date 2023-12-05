@@ -1,1 +1,1 @@
-print("ekekekekekeke")
+print("abcdefg + ".rstrip(" + "))
